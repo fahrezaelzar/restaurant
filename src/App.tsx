@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { 
-  ArrowRight, Leaf, ShieldCheck, HeartPulse, ChevronLeft, ChevronRight, Play, Pause, Sparkles, 
+  ArrowRight, ShieldCheck, HeartPulse, ChevronLeft, ChevronRight, Sparkles, 
   MapPin,Flame, Award,Shield,Heart,Users,Star, Quote, Plus } from 'lucide-react';
 import { DISHES, TESTIMONIALS } from './data';
 import type { CartItem, Dish } from './type';

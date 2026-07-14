@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, ShoppingBasket, Plus, Trash2, Heart, Sparkles, Check, ChevronRight } from 'lucide-react';
+import { X, ShoppingBasket,  Trash2, Check, ChevronRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { DISHES } from '../data';
 import type { Dish, CartItem } from '../type';
